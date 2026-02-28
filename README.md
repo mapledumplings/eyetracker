@@ -1,1 +1,1 @@
-A small program that highlights the general direction your eyes are looking at with a red circle. **Warning** accuracy depends on quality of camera and head movement.
+A small program that highlights the general direction your eyes are looking at with a red circle. **Warning** accuracy depends on quality of camera and head movement. Requires cv2, mediapipe, numpy, pyautogui, and pygame.
